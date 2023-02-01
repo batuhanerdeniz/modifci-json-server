@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "John.x.Doe",
+      "age": 32,
+      "favourite_music_genre": "Jazz",
+      "preferred_programming_language": "Javascript",
+      "best_frontend_framework": "Vue",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "SniperxXx",
+      "age": 23,
+      "favourite_music_genre": "Rap",
+      "preferred_programming_language": "Python",
+      "best_frontend_framework": "React"
+    }
+  ],
+  "todos": [
+    {
+      "id":1,
+      "todo":"Clean the house",
+      "isCompleted":false
+    },
+    {
+      "id":2,
+      "todo":"Make Pizza",
+      "isCompleted":false
+    }
+    
+    
+  ]
+}
